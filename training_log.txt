@@ -1,0 +1,14 @@
+24-05-17 12:00:01 INFO Starting training for model: ResNet50
+2024-05-17 12:00:02 INFO Epoch 1/10 - loss: 0.693 - accuracy: 0.500
+2024-05-17 12:01:02 INFO Epoch 2/10 - loss: 0.610 - accuracy: 0.670
+2024-05-17 12:02:02 INFO Epoch 3/10 - loss: 0.550 - accuracy: 0.720
+2024-05-17 12:03:02 INFO Epoch 4/10 - loss: 0.510 - accuracy: 0.750
+2024-05-17 12:04:02 INFO Epoch 5/10 - loss: 0.470 - accuracy: 0.780
+2024-05-17 12:05:02 INFO Epoch 6/10 - loss: 0.430 - accuracy: 0.810
+2024-05-17 12:06:02 INFO Epoch 7/10 - loss: 0.390 - accuracy: 0.840
+2024-05-17 12:07:02 INFO Epoch 8/10 - loss: 0.350 - accuracy: 0.870
+2024-05-17 12:08:02 INFO Epoch 9/10 - loss: 0.310 - accuracy: 0.900
+2024-05-17 12:09:02 INFO Epoch 10/10 - loss: 0.270 - accuracy: 0.930
+2024-05-17 12:10:02 INFO Training completed for model: ResNet50
+2024-05-17 12:10:03 WARNING GPU memory usage is high
+2024-05-17 12:10:04 ERROR Model saving failed due to insufficient disk space
